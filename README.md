@@ -5,7 +5,7 @@ This project aims to carry out good practices based on Clean Architecture such a
 - How structure folder by a context
 - How to use React Context as a state manager for a context
 - How to use Redux as a global state manager
-- How Rxjs as an event manager
+- How to use Rxjs as an event manager
 
 ## Installation
 
